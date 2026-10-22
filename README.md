@@ -538,7 +538,7 @@ Follow these steps to explore the workbook.
 Run the following command in a terminal:
 
 ```bash
-git clone https://github.com/vishakhamaisuriya17-hub/Excel-Fundamental-Booster.git
+git clone https://github.com/pranamiraj083-ship-it/excel-fundamental-booster.git
 ```
 
 Navigate to the downloaded repository:
@@ -616,11 +616,9 @@ The workbook is intended for learning and demonstrating the practical applicatio
 
 ## Author
 
-**Vishakha Maisuriya**
+**Raj kumar**
 
-GitHub: [vishakhamaisuriya17-hub](https://github.com/vishakhamaisuriya17-hub)
-
-Repository: [Excel Fundamental Booster](https://github.com/vishakhamaisuriya17-hub/Excel-Fundamental-Booster)
+Repository: [Excel Fundamental Booster](https://github.com/pranamiraj083-ship-it/excel-fundamental-booster.git)
 
 ---
 
